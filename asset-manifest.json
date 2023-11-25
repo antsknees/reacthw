@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/antsknees/reacthw/static/css/main.6ca44acf.css",
+    "main.js": "/antsknees/reacthw/static/js/main.92348ed8.js",
+    "index.html": "/antsknees/reacthw/index.html",
+    "main.6ca44acf.css.map": "/antsknees/reacthw/static/css/main.6ca44acf.css.map",
+    "main.92348ed8.js.map": "/antsknees/reacthw/static/js/main.92348ed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ca44acf.css",
+    "static/js/main.92348ed8.js"
+  ]
+}
